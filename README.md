@@ -29,7 +29,7 @@
 ## 🚀 Projects
 
 - [ResolveHQ](https://github.com/Yashk879/ResolveHQ) – Helpdesk and customer support platform
-- [Mini_Project](https://github.com/Yashk879/Mini_Project) – Full-stack development project
+- [MediaMerge](https://github.com/Yashk879/Media-Merge) – Full-stack development project
 
 ## 📊 GitHub Statistics
 
